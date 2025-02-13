@@ -1,7 +1,7 @@
 class figura {
   int _largo;
   int _ancho;
-
+  //Constructor
   figura(this._largo,this._ancho);
 
   void mostrar(){
